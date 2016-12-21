@@ -1,9 +1,11 @@
 //https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/
 
+//Input an array, then print in reverse
+
 import java.util.*;
 
 
-class RandomGraph {
+class Reverse {
     public static void main(String args[] ) throws Exception {
        Scanner kb = new Scanner(System.in);
        
